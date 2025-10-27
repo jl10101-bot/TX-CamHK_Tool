@@ -34,7 +34,7 @@ pkg install termux-api -y
 
 ### **Step 6**: Clone Repository
 ```bash
-git clone https://github.com/JohanEljohany/TX-CamHK-Tool.git
+git clone https://github.com/jl10101-bot/TX-CamHK_Tool.git
 ```
 
 ### **Step 7**: Install Unzipper
