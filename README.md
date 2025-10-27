@@ -49,8 +49,7 @@ pkg install unzip
 
 ### **Site 9**: Unzip zip file command
 ```bash
-unzip Run-T.zip
-JAKEL
+unzip -P JAKEL Run-T.zip
 ```
 
 ### **Step 10**: Make Script Executable
