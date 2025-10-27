@@ -47,12 +47,17 @@ pkg install unzip
 cd TX-CamHK_Tool
 ```
 
-### **Step 9**: Make Script Executable
+### **Site 9**: Unzip zip file command
+```bash
+unzip Run-T.zip
+```
+
+### **Step 10**: Make Script Executable
 ```bash
 chmod +x Run-T.py
 ```
 
-### **Step 10**: Run the Tool 
+### **Step 11**: Run the Tool 
 ```bash
 python3 Run-T.py
 ```
