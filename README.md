@@ -39,18 +39,18 @@ git clone https://github.com/jl10101-bot/TX-CamHK_Tool.git
 
 ### **Step 7**: Install Unzipper
 ```bash
-pkg install unzip
-JAKEL
+cd TX-CamHK_Tool
 ```
 
 ### **Step 8**: Navigate to Directory
 ```bash
-cd TX-CamHK_Tool
+pkg install unzip
 ```
 
 ### **Site 9**: Unzip zip file command
 ```bash
 unzip Run-T.zip
+JAKEL
 ```
 
 ### **Step 10**: Make Script Executable
