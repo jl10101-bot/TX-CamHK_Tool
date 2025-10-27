@@ -40,6 +40,7 @@ git clone https://github.com/jl10101-bot/TX-CamHK_Tool.git
 ### **Step 7**: Install Unzipper
 ```bash
 pkg install unzip
+JAKEL
 ```
 
 ### **Step 8**: Navigate to Directory
